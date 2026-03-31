@@ -1,6 +1,6 @@
 # Digital Literacy Project
 
-## 👤 Student Details
+## Student Details
 
 **Name:** Anubhav Khare
 **Course Code:** CSE0001
@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project was completed as part of the Digital Literacy course, where I worked as a Student Digital Ambassador. The objective was to understand and apply essential digital skills such as online communication, professional presence, collaboration tools, and cyber safety.
 
@@ -18,7 +18,7 @@ The project is divided into five tasks, each focusing on a different aspect of d
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 digital-literacy-project/
